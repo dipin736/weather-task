@@ -1,0 +1,14 @@
+
+# Secret key
+venv
+
+# Django development settings
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+local_settings.py
+
+# Django Static
+staticfiles/
+
